@@ -10,10 +10,12 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
   
 
 ## 🔬 What I do
-- 📊 Build decision-support dashboards for policy and business (Streamlit, Power BI)
-- 🌱 Research sustainability across its environmental, social and economic dimensions
-- 📈 Analyse large datasets in R and Python
-- 🗺️ Run primary field research: survey design, data collection, spatial analysis
+
+- 📊 Turn business and survey data into actionable insights using Python, R, SQL, statistical analysis and visualisation.
+- 🤖 Build analytical solutions including customer segmentation, demand forecasting, regression models and decision-support dashboards.
+- 🌱 Conduct sustainability and public-policy research, combining literature reviews, survey design and primary fieldwork with evidence-led analysis.
+- 🗺️ Analyse household and spatial data to examine consumption, digital inclusion, livelihood vulnerability and local infrastructure challenges.
+- 📈 Translate findings into practical outputs—from Power BI reporting and retention workflows to interactive Streamlit tools and policy recommendations.
 
 ## 🛠️ Tech Arsenal
 
