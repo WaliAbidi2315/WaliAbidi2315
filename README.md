@@ -7,8 +7,7 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wali-abidi-416843320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="./CV_Wali_Abidi.pdf"><img src="https://img.shields.io/badge/Download_CV-111111?logo=readme&logoColor=white"></a>
-</p>
+  
 
 ## 🔬 What I do
 - 📊 Build decision-support dashboards for policy and business (Streamlit, Power BI)
