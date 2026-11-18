@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wali Abidi 👋</h1>
+<h1 align="center">Hi, I'm Wali Abidi</h1>
 
 <p align="center">
 BS Analytics & Sustainability Studies @ <b>Tata Institute of Social Sciences, Mumbai</b><br>
@@ -9,15 +9,15 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
   <a href="https://www.linkedin.com/in/wali-abidi-416843320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   
 
-## 🔬 What I do
+## What I do
 
-- 📊 Turn business and survey data into actionable insights using Python, R, SQL, statistical analysis and visualisation.
-- 🤖 Build analytical solutions including customer segmentation, demand forecasting, regression models and decision-support dashboards.
-- 🌱 Conduct sustainability and public-policy research, combining literature reviews, survey design and primary fieldwork with evidence-led analysis.
-- 🗺️ Apply statistical and spatial analysis to explore social, economic and sustainability challenges.
-- 📈 Translate findings into practical outputs—from Power BI reporting and retention workflows to interactive Streamlit tools and policy recommendations.
+- Turn business and survey data into actionable insights using Python, R, SQL, statistical analysis and visualisation.
+- Build analytical solutions including customer segmentation, demand forecasting, regression models and decision-support dashboards.
+- Conduct sustainability and public-policy research, combining literature reviews, survey design and primary fieldwork with evidence-led analysis.
+- Apply statistical and spatial analysis to explore social, economic and sustainability challenges.
+- Translate findings into practical outputs—from Power BI reporting and retention workflows to interactive Streamlit tools and policy recommendations.
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
@@ -31,18 +31,18 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 
 **Research:** Survey design · Primary data collection · Literature review · Field research
 
-## 🚀 Featured Projects
+## Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
 | [Microloan Default Risk Analysis](https://github.com/WaliAbidi2315/microloan-default-risk-analysis) | End-to-end classification analysis on 900 synthetic loan records; compares five models, evaluates default-risk trade-offs, and explores threshold tuning (Logistic Regression ROC-AUC: 0.888; recall: 72.2% at a 0.30 threshold) | Python, pandas, scikit-learn |
 | [Revenue Maximisation](https://github.com/WaliAbidi2315/Revenue-Maximisation-on-Python) | Analysed 1.99M+ transactions for a biotech business; found 39.3% churn as the key revenue driver; Prophet forecasts, RFM/K-Means segmentation, BCG analysis | Python, Prophet, scikit-learn |
 | [HCES Survey Analysis](https://github.com/WaliAbidi2315/Household-Consumption-and-Expenditure-Survey-Analysis-on-R) | NSSO household consumption microdata: MPCE inequality, rural-urban gaps, nutrition; Welch's t-tests, ANOVA, Tukey HSD | R, Quarto |
 
-## 📄 Research
+## Research
 - **MSME Sustainability and Advancement Index**: presented at the XXI International Conference on Public Policy & Management, IIM Bangalore (theme: Atmanirbhar Bharat)
 - **Mall Road, Nainital field research**: 1,000+ survey responses across enterprises, residents, workers and tourists; independent paper on worker and resident data (n=529)
 - **Digital Access and Usage Analysis**: NSSO 80th Round Telecom Survey in R, covering household internet access and individual digital inclusion
 
-## 💼 Experience
+## Experience
 - **Data Analytics Intern, SUPR** (Aug–Sep 2026): Power BI dashboards with DAX measures and automated retention/reorder tracking
 - **Field Researcher, TISS** (Jun–Jul 2026, Sep 2025): sustainable tourism governance in Nainital; NSSO-based household surveys
