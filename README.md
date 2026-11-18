@@ -32,7 +32,7 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 ## 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [Nainital Carrying-Capacity Cockpit](https://github.com/WaliAbidi2315/Nainital-Carrying-Capacity-Cockpit) | Decision-support dashboard for sustainable tourism, with composite indices (infrastructure, water/energy stress, livelihood vulnerability) and a policy scenario simulator | Python, Streamlit |
+| [Microloan Default Risk Analysis](https://github.com/WaliAbidi2315/microloan-default-risk-analysis) | End-to-end classification analysis on 900 synthetic loan records; compares five models, evaluates default-risk trade-offs, and explores threshold tuning (Logistic Regression ROC-AUC: 0.888; recall: 72.2% at a 0.30 threshold) | Python, pandas, scikit-learn |
 | [Revenue Maximisation](https://github.com/WaliAbidi2315/Revenue-Maximisation-on-Python) | Analysed 1.99M+ transactions for a biotech business; found 39.3% churn as the key revenue driver; Prophet forecasts, RFM/K-Means segmentation, BCG analysis | Python, Prophet, scikit-learn |
 | [HCES Survey Analysis](https://github.com/WaliAbidi2315/Household-Consumption-and-Expenditure-Survey-Analysis-on-R) | NSSO household consumption microdata: MPCE inequality, rural-urban gaps, nutrition; Welch's t-tests, ANOVA, Tukey HSD | R, Quarto |
 
