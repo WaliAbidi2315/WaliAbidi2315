@@ -14,7 +14,7 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 - 📊 Turn business and survey data into actionable insights using Python, R, SQL, statistical analysis and visualisation.
 - 🤖 Build analytical solutions including customer segmentation, demand forecasting, regression models and decision-support dashboards.
 - 🌱 Conduct sustainability and public-policy research, combining literature reviews, survey design and primary fieldwork with evidence-led analysis.
-- 🗺️ Analyse household and spatial data to examine consumption, digital inclusion, livelihood vulnerability and local infrastructure challenges.
+- 🗺️ Apply statistical and spatial analysis to explore social, economic and sustainability challenges.
 - 📈 Translate findings into practical outputs—from Power BI reporting and retention workflows to interactive Streamlit tools and policy recommendations.
 
 ## 🛠️ Tech Arsenal
