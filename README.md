@@ -17,7 +17,7 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 - Apply statistical and spatial analysis to explore social, economic and sustainability challenges.
 - Translate findings into practical outputs—from Power BI reporting and retention workflows to interactive Streamlit tools and policy recommendations.
 
-## Technical Skills
+## Tech Stack & Technical Skills
 
 **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
