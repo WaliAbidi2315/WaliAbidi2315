@@ -43,4 +43,4 @@ Data analytics × ESG/sustainability research × policy-oriented fieldwork
 - **Mall Road, Nainital field research**: 1,000+ survey responses across enterprises, residents, workers and tourists; independent paper on worker and resident data (n=529)
 - **Digital Access and Usage Analysis**: NSSO 80th Round Telecom Survey in R, covering household internet access and individual digital inclusion
 
-## Last Update: 20/11/2026
+Last Update: 20/11/2026
